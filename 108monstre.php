@@ -16,8 +16,8 @@
 					chart: 
 					{
 						renderTo: 'Graphique',
-						type: 'line',
-				   	   	zoomType: 'x',
+						type: 'line' ,
+				   	   	zoomType: 'x' ,
 					},
 					title: 
 					{
@@ -60,7 +60,7 @@
 				});
 			});
 		</script>	
-		<title>108 Monster - GRRR !!</title>
+		<title>108 Monster</title>
 	</head>
 	
 	<body>
